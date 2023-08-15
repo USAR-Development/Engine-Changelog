@@ -11,7 +11,7 @@ Delta Archipelago - v0.4.1
 ## Changelog
 
 ```md
-# engine v0.5.0-alpha [8/11/23]
+# engine v0.5.1-alpha [8/11/23]
 --------------------------
 + Added bus system
 + Added equipment modification interface for skydiving & flare control while diving
