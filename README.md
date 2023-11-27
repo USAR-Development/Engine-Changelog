@@ -1,3 +1,35 @@
+# Farewell
+Time has come for me to say goodbye to USAR fully. It's a mix of really enjoying my time with the community and also regretting having spent so much time that didn't lead to much besides that simple enjoyment and seeing people use the things that I worked on. I wish nothing but the best for the group. I want to see it succeed, continue to grow, and become a better version of itself every day with all of the effort that every person puts in. 
+
+To everyone who enjoys USAR:
+Enjoy it while you can. You'll make a lot of friends. Remember to always prioritize your life and never use this or games as a whole as an escape. You guys have always been an amazing community and the things you have achieved over the years have never ceased to amaze me.
+
+To Zan:
+Working under you is like working for a boss who doesn't show up to work. Which was both a blessing and a curse. On one hand, I had free reign to make and do whatever I wanted and was able to lead the game in any direction that I wanted to lead it. On the other hand, I never had your support. It was always extremely hard trying to update the game or work on new things without the project lead that could bring in the builders, the artists, and dedicated modelers and I was usually a one-man show trying to pull miracles out of where the sun doesn't shine always asking for favors from friends to try and pull something together for the community. We never could have reached the true potential that we could have reached through those long stretches of silence and the lack of communication. I hope you're able to figure it out and draw a project to a true completion one day and make the amount of money you deserve for the amount of effort you put in.
+
+Goodbye gift to the community:
+As a parting gift to the modern military community, I'll be releasing an altered version of game demo which holds the source code to every current USAR game as of the release date of this message. I would always work on updates to the USAR engine on my profile on game demo and would release them in larger packaged updates.
+This game contains systems like
+- Helicopters
+- Character Editor
+- Interaction System
+- Hosting/Group Ranking System
+- Prison/Handcuffs
+- Leaderstats for varying and customizable tracking metrics
+- Radio/chat system, multiple channels, locked frequencies
+- Player manager for spawning, teams, loadouts, tags, platform, etc
+- Skydiving and parachuting systems
+- Animation and hat control systems
+- Lots of different menu interfaces
+- Fully loaded data system with an intricate ban system and keybind adaptability
+- & lots more, the full version of game demo has over 100k lines of code
+
+Review the systems, add on to them, remove them, expand on the different areas of infrastructure, and do the things I didn't have time to do. You can make a lot of different games or add on to your current ones with these tools. I started this in December of 2021 and it's always been a hobby project that I worked on during random weekends or random weeks throughout the years when I had time.
+
+As someone who is majoring in Computer Science and used roblox as a stepping stone to get into this field. Use this and grow from it. Never stop learning, never stop challenging yourself, & never stop becoming a better version of you.
+
+Goodbye USAR, have a good one.
+
 # USAR Engine Changelog
 These updates are posted into a package within a development place and then posted to all games USAR actively uses. The files are configured so that some things will be disabled in a given place but enabled in others which allows us to post a singular code base to multiple games at the same time. These logs will show what is being changed and the date the update went through as well as patch notes or hotfixes that went along with that given update.
 
