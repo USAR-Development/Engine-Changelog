@@ -1,5 +1,5 @@
 # Farewell
-Time has come for me to say goodbye to USAR fully. It's a mix of really enjoying my time with the community and also regretting having spent so much time that didn't lead to much besides that simple enjoyment and seeing people use the things that I worked on. I wish nothing but the best for the group. I want to see it succeed, continue to grow, and become a better version of itself every day with all of the effort that every person puts in. 
+Time has come for me to say goodbye to USAR fully. I've spent 4 years with the group and it only took a few thousand uniform Id changes, game updates, and permission changes for me to take my leave. It's a mix of really enjoying my time with the community and also regretting having spent so much time that didn't lead to much besides that simple enjoyment and seeing people use the things that I worked on. I wish nothing but the best for the group. I want to see it succeed, continue to grow, and become a better version of itself every day with all of the effort that every person puts in. 
 
 
 ### **To everyone who enjoys USAR:**
@@ -10,6 +10,8 @@ Enjoy it while you can. You'll make a lot of friends. Remember to always priorit
 ### **To Zan:**
 
 Working under you is like working for a boss who doesn't show up to work. Which was both a blessing and a curse. On one hand, I had free reign to make and do whatever I wanted and was able to lead the game in any direction that I wanted to lead it. On the other hand, I never had your support. It was always extremely hard trying to update the game or work on new things without the project lead that could bring in the builders, the artists, and dedicated modelers and I was usually a one-man show trying to pull miracles out of where the sun doesn't shine always asking for favors from friends to try and pull something together for the community. We never could have reached the true potential that we could have reached through those long stretches of silence and the lack of communication. I hope you're able to figure it out and draw a project to a true completion one day and make the amount of money you deserve for the amount of effort you put in.
+
+I commend you for the knack you've developed over the years in finding and surrounding yourself with individuals who will do more for receiving less which is how I originally started out with you. Good luck to you in all your future projects.
 
 
 ### **Goodbye gift to the community:**
