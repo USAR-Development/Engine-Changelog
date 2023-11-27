@@ -1,4 +1,8 @@
 # Farewell
+"i aint readin allat"
+
+Open sourced game demo: https://www.roblox.com/games/15483397137/Game-Demo-Uncopylocked
+
 Time has come for me to say goodbye to USAR fully. I've spent 4 years with the group and it only took a few thousand uniform Id changes, game updates, and permission changes for me to take my leave. It's a mix of really enjoying my time with the community and also regretting having spent so much time that didn't lead to much besides that simple enjoyment and seeing people use the things that I worked on. I wish nothing but the best for the group. I want to see it succeed, continue to grow, and become a better version of itself every day with all of the effort that every person puts in. 
 
 
@@ -14,7 +18,23 @@ Working under you is like working for a boss who doesn't show up to work. Which 
 I commend you for the knack you've developed over the years in finding and surrounding yourself with individuals who will do more for receiving less which is how I originally started out with you. Good luck to you in all your future projects.
 
 
+### **Why I was removed:**
+
+For the last few months Zan, those in Army Staff, and a few other developers have been creating a new primary map for USAR without telling me. This could've been done for a million reasons, but prime among them is likely that I just don't have time for the group anymore and don't heed it the same attention I used to. This gives you an idea of the dynamic between me and the group's leadership since I left the server in the summer. I'd often shoot down ideas like adding tanks or cars citing it as extremely time-consuming to make with very little upside to the actual business model of the game and quoting that similar games that have much less also have both higher player counts and much less feature-wise in their games. This expanded the communication gap between Zan and me and led to my exit from the group. I created a suggestive proposal that alters how Army Staff works which opens up the Army Staff Trello to the public so everyone can see the status of decisions (keeps divisions in the loop and up to date on their requests as well as the reason for something being denied), as well as streamlining proposals from headquarters of each command by utilizing an already functional discord bot, and separating classified items such as staff removals or HQ reports into an archival trello. This proposal was sent to both Army Staff and Zan with decision up to Zan. After 5 days of waiting for any sort of response from Zan while he was still talking in the Army Staff gc and the main server, army staff made a request for a uniform change in game which I said I wasn't going to do until Zan responded to that proposal. This caused a larger snowballing effect as I "couldn't even make a 10-second change" which further aggravated Army Staff after I denied former larger game-altering requests which then creates the negative mindset and environment of "he doesn't do anything". With that being said, I always wanted to add those things, but I both didn't have the motivation as mentioned before due to Zan never being present and holding a majority share nor the time, as well as no longer having the drive to do things for basically free as I did when I started out with the group. You get into this weird mindset where you know the work you are doing and the problems you are solving would earn you an actual salary at any company, but here you are essentially donating your time and working for pennies on the dollar. Which has always been acceptable as a hobby but also difficult making features and systems you'd find in triple A titles in a small community roblox game. There will always be those that are willing to do that and may the success and future of the community ride on them.
+
+### **My opinion on the new map:**
+From the single screenshot I saw, it looks like a solid map. It's just a mixture of unity asset packs, modified buildings Ybetha made, and few roads in an effort to bring everything and everyone closer together. It's the result of a hard-learned lesson from the failed attempt of the expansive and large first Fort Jackson which was scrapped simply due to not being compatible with the social structure of the group. I wish that we truly could've released a new Fort Jackson instead of the modified Fort Martin, but again it has always been hard without the support to actually make it happen. Only reason the second version of Fort Jackson came out as good as it did was because Ybetha approached me after I released an announcement that we were looking for builders and the fact that he was willing to basically donate his time for free. Glad to see that further iterations of that new map will head in the right direction and can utilize the foundations that have been laid in years past.
+
+### Adios
+As someone who is majoring in Computer Science and used roblox as a stepping stone to get into this field. Use the open-source game and grow from it. Never stop learning, never stop challenging yourself, & never stop becoming a better version of you.
+
+*Goodbye USAR, it's been fun.*
+
+  -Kronos
+
+
 ### **Goodbye gift to the community:**
+
 As a parting gift to the modern military community, I'll be releasing an altered version of game demo which holds the source code to every current USAR game as of the release date of this message. I would always work on updates to the USAR engine on my profile on game demo and would release them in larger packaged updates.
 This game contains systems like
 - Helicopters
@@ -33,11 +53,7 @@ This game contains systems like
 
 Review the systems, add on to them, remove them, expand on the different areas of infrastructure, and do the things I didn't have time to do. You can make a lot of different games or add on to your current ones with these tools. I started this in December of 2021 and it's always been a hobby project that I worked on during random weekends or random weeks throughout the years when I had time.
 
-As someone who is majoring in Computer Science and used roblox as a stepping stone to get into this field. Use this and grow from it. Never stop learning, never stop challenging yourself, & never stop becoming a better version of you.
-
-*Goodbye USAR, have a good one.*
-
-  -Kronos
+Game: https://www.roblox.com/games/15483397137/Game-Demo-Uncopylocked
 
 # USAR Engine Changelog
 These updates are posted into a package within a development place and then posted to all games USAR actively uses. The files are configured so that some things will be disabled in a given place but enabled in others which allows us to post a singular code base to multiple games at the same time. These logs will show what is being changed and the date the update went through as well as patch notes or hotfixes that went along with that given update.
