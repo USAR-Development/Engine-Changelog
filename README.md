@@ -35,6 +35,8 @@ As someone who is majoring in Computer Science and used roblox as a stepping sto
 
 *Goodbye USAR, have a good one.*
 
+  -Kronos
+
 # USAR Engine Changelog
 These updates are posted into a package within a development place and then posted to all games USAR actively uses. The files are configured so that some things will be disabled in a given place but enabled in others which allows us to post a singular code base to multiple games at the same time. These logs will show what is being changed and the date the update went through as well as patch notes or hotfixes that went along with that given update.
 
