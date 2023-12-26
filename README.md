@@ -1,42 +1,32 @@
 # Farewell
-"i aint readin allat"
 
 Open sourced game demo: https://www.roblox.com/games/15483397137/Game-Demo-Uncopylocked
 
-Time has come for me to say goodbye to USAR fully. I've spent 4 years with the group and it only took a few thousand uniform Id changes, game updates, and permission changes for me to take my leave. It's a mix of really enjoying my time with the community and also regretting having spent so much time that didn't lead to much besides that simple enjoyment and seeing people use the things that I worked on. I wish nothing but the best for the group. I want to see it succeed, continue to grow, and become a better version of itself every day with all of the effort that every person puts in. 
+**Why I am no longer a part of the USAR community:**
 
+I was removed for being inactive and not implementing fixes, uniform or permission changes, features, and full-set systems in a timely fashion.
+I had a 40/60 split with the group owner. The issue was that the group owner had almost zero participation in anything to do with the community. I'll split it into the development perspective and the group management perspective.
 
-### **To everyone who enjoys USAR:**
+Development: Every 6 months or so Zanance (the group owner) would come around and get a sudden spurt of interest in the group again (usually due to a lack of activity on another project startup of his) and come up with some random project to do to lead the group in a new direction. Group chats would be made. 
+Game would be made and worked on for a few days to max two weeks. Zan would typically announce or advertise this project in the discord and set unrealistic release dates before any actual work had even begun. Usually, a few Q&A
+sessions would also be hosted for the community to ask questions about what would go into the game and the things they would get to see. Almost all of these promises were never fulfilled. Zan as the group owner, was typically the project lead for these types of things
+and would thus be in charge of making sure tasks were being completed in a timely fashion from all components of acquired talent. For the first few days, he would be very responsive and then the development group chat would die down, excitement would wear off, task blockers
+would start showing up (usually not being able to find a person to completely make a game's UI for like $50), and thus he would lose interest in the project and then so would everyone else.
 
-Enjoy it while you can. You'll make a lot of friends. Remember to always prioritize your life and never use this or games as a whole as an escape. You guys have always been an amazing community and the things you have achieved over the years have never ceased to amaze me.
+Group: On the group side of things, Zan fell into the pattern of only interjecting in anything going on if there was a significant issue that required intervention. If somebody in the upper leadership echelon of the group became inactive or wasn't fulfilling their tasks timely all he had to do was pick
+from one of the lower ranks, promote them, and then go back to whatever other project he had started or to an inactive off-site state. Usually, as long as there is somebody in the 1st-in-command leadership position under Zan though they'd handle that for him anyway. Zan would very rarely say anything
+in the army staff group chat. He wouldn't respond to pings until much later usually either or simply not at all. Along with his development 6-month cycle pattern, it would also occur in the group aspect and he would randomly make sweeping changes to channel structures, delete channels with a lot of history,
+rename things, change role colors, etc. This was to get a "fresh start" for the group usually and his way of getting involved.
 
+This gave me, from the development side of things, free reign to do whatever I wanted to do. When no one is pushing you from a leadership perspective to make or do anything you can kind of just make whatever you want whenever you want to. I was here from mid 2019 to the start of 2020. Took a year break. Came back january of 2021 to november of 2023. I took a few commission based payments in 2019 and for the year of 2021. I didn't take a percentage of the group until january of 2022 to november of 2023. Put yourself in my shoes. A group owner is responsible for group leadership management, talent acquisition, marketing, participation at least to a slight degree in the upkeep of ongoing activity in the group, development management in the scrum/agile process, & vision of both game direction & community direction at minimum. Although that sentence is long it is an extremely minimal amount of work and something you can do across multiple projects and groups especially when everything is self-sufficient. When that 'owner' is not there at all for any of those things and is simply sucking up a majority share how incentivized would you be exactly to make or do anything, especially when they are also typically unresponsive to you and may take days to respond to simple things such as simple rank structure changes, bind changes, group description changes, etc. The very reason the holder account was made was so that army staff could make changes and Zan no longer had to because it would take him too long and he would forget. My removal for my lack of being fast enough to implement uniform changes or permission changes when the owner who is taking 60% of the revenue stream was unable to do something he could typically do in 10 seconds from the app on his phone is ironic and laughable.
 
-### **To Zan:**
-
-Working under you is like working for a boss who doesn't show up to work. Which was both a blessing and a curse. On one hand, I had free reign to make and do whatever I wanted and was able to lead the game in any direction that I wanted to lead it. On the other hand, I never had your support. It was always extremely hard trying to update the game or work on new things without the project lead that could bring in the builders, the artists, and dedicated modelers and I was usually a one-man show trying to pull miracles out of where the sun doesn't shine always asking for favors from friends to try and pull something together for the community. We never could have reached the true potential that we could have reached through those long stretches of silence and the lack of communication. I hope you're able to figure it out and draw a project to a true completion one day and make the amount of money you deserve for the amount of effort you put in.
-
-I commend you for the knack you've developed over the years in finding and surrounding yourself with individuals who will do more for receiving less which is how I originally started out with you. Good luck to you in all your future projects.
-
-
-### **Why I was removed:**
-
-For the last few months Zan, those in Army Staff, and a few other developers have been creating a new primary map for USAR without telling me. This could've been done for a million reasons, but prime among them is likely that I just don't have time for the group anymore and don't heed it the same attention I used to. This gives you an idea of the dynamic between me and the group's leadership since I left the server in the summer. I'd often shoot down ideas like adding tanks or cars citing it as extremely time-consuming to make with very little upside to the actual business model of the game and quoting that similar games that have much less also have both higher player counts and much less feature-wise in their games. This expanded the communication gap between Zan and me and led to my exit from the group. I created a suggestive proposal that alters how Army Staff works which opens up the Army Staff Trello to the public so everyone can see the status of decisions (keeps divisions in the loop and up to date on their requests as well as the reason for something being denied), as well as streamlining proposals from headquarters of each command by utilizing an already functional discord bot, and separating classified items such as staff removals or HQ reports into an archival trello. This proposal was sent to both Army Staff and Zan with decision up to Zan. After 5 days of waiting for any sort of response from Zan while he was still talking in the Army Staff gc and the main server, army staff made a request for a uniform change in game which I said I wasn't going to do until Zan responded to that proposal. This caused a larger snowballing effect as I "couldn't even make a 10-second change" which further aggravated Army Staff after I denied former larger game-altering requests which then creates the negative mindset and environment of "he doesn't do anything". With that being said, I always wanted to add those things, but I both didn't have the motivation as mentioned before due to Zan never being present and holding a majority share nor the time, as well as no longer having the drive to do things for basically free as I did when I started out with the group. You get into this weird mindset where you know the work you are doing and the problems you are solving would earn you an actual salary at any company, but here you are essentially donating your time and working for pennies on the dollar. Which has always been acceptable as a hobby but also difficult making features and systems you'd find in triple A titles in a small community roblox game. There will always be those that are willing to do that and may the success and future of the community ride on them.
-
-### **My opinion on the new map:**
-From the single screenshot I saw, it looks like a solid map. It's just a mixture of unity asset packs, modified buildings Ybetha made, and few roads in an effort to bring everything and everyone closer together. It's the result of a hard-learned lesson from the failed attempt of the expansive and large first Fort Jackson which was scrapped simply due to not being compatible with the social structure of the group. I wish that we truly could've released a new Fort Jackson instead of the modified Fort Martin, but again it has always been hard without the support to actually make it happen. Only reason the second version of Fort Jackson came out as good as it did was because Ybetha approached me after I released an announcement that we were looking for builders and the fact that he was willing to basically donate his time for free. Glad to see that further iterations of that new map will head in the right direction and can utilize the foundations that have been laid in years past.
-
-### Adios
-As someone who is majoring in Computer Science and used roblox as a stepping stone to get into this field. Use the open-source game and grow from it. Never stop learning, never stop challenging yourself, & never stop becoming a better version of you.
-
-*Goodbye USAR, it's been fun.*
-
-  -Kronos
-
+All that being said, Zan is an honest and fun guy but has yet to prove himself as a capable project leader or group owner. The success chance of anything he works on will always be inhibited until he figures out how to focus, take risks, and stay with a project for the long haul.
 
 ### **Goodbye gift to the community:**
 
-As a parting gift to the modern military community, I'll be releasing an altered version of game demo which holds the source code to every current USAR game as of the release date of this message. I would always work on updates to the USAR engine on my profile on game demo and would release them in larger packaged updates.
+As a parting gift to the modern military community, I've released an open-sourced version of game demo which is a knit-based game that developers in the modern military community and the platform as a whole can learn from.
 This game contains systems like
+- Fully built out Cmdr admin system
 - Helicopters
 - Character Editor
 - Interaction System
@@ -51,9 +41,13 @@ This game contains systems like
 - Fully loaded data system with an intricate ban system and keybind adaptability
 - & lots more, the full version of game demo has over 100k lines of code
 
-Review the systems, add on to them, remove them, expand on the different areas of infrastructure, and do the things I didn't have time to do. You can make a lot of different games or add on to your current ones with these tools. I started this in December of 2021 and it's always been a hobby project that I worked on during random weekends or random weeks throughout the years when I had time.
-
 Game: https://www.roblox.com/games/15483397137/Game-Demo-Uncopylocked
+
+Knit docs: https://sleitnick.github.io/Knit/
+Cmdr docs: https://eryn.io/Cmdr/guide/Setup.html
+
+Adios
+- Kronos
 
 # USAR Engine Changelog
 These updates are posted into a package within a development place and then posted to all games USAR actively uses. The files are configured so that some things will be disabled in a given place but enabled in others which allows us to post a singular code base to multiple games at the same time. These logs will show what is being changed and the date the update went through as well as patch notes or hotfixes that went along with that given update.
